@@ -1,5 +1,5 @@
 let NomeDoHeroi="Heroi Generico"
-let exp=8000
+let exp=10000
 if(exp<=1000){
     console.log("O Heroi de nome: "+NomeDoHeroi+", esta no nivel Ferro")
 }
